@@ -2,7 +2,7 @@
 Created a clinic management system by **C** using Linked-list (dynamic memory allocation), organized and linked multiple files. wrote a simple make file `Run.bat` to run the program easily.
 At the beginning of the system, it asks the user to choose between admin mode and user mode.
 
-## Admin mode
+## Admin
 The system asks for password, the default password is 1234. The system allows 3 trails for the password entry, if the entered password was incorrect for 3 consecutive times, the system shall close. After login in the admin mode, the system shall provide the following features:
 
 ### 1. Add new patient record
@@ -17,7 +17,7 @@ By default there are 5 available slots, 2pm to 2:30pm, 2:30pm to 3pm, 3pm to 3:3
 ### 4. Cancel reservation
 The admin can cancel a reservation by entering the patient ID. This reservation shall be shown again in the available slots window.
 
-##  User mode
+##  User
 There is no password. The system allows the following features:
 
 ### 1. View patient record
