@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "STD_TYPES.h"
-#include "admin.h"
-#include "user.h"
+#include "LIB/STD_TYPES.h"
+#include "Admin/admin.h"
+#include "User/user.h"
 
 void main(void)
 {

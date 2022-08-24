@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "STD_TYPES.h"
+#include "../LIB/STD_TYPES.h"
 #include "admin.h"
 
 patient_t *head = NULL;
