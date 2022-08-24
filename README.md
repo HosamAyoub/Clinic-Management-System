@@ -1,5 +1,5 @@
 # Clinic Management System
-Created a clinic management system by **C** using Linked-list (dynamic memory allocation), organized and linked multiple files. wrote a simple make file `Run.bat` to run the program easily.  
+Created a clinic management system by **C** using Linked-list (dynamic memory allocation), organized and linked multiple files. wrote a simple Makefile `Run.bat` to run the program easily.  
 At the beginning of the system, it asks the user to choose between admin mode and user mode.
 
 ## Admin
